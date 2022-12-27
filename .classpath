@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="lib" path="dist/Bank_GUI.jar"/>
+	<classpathentry kind="lib" path="dist/lib/itextpdf-5.5.9.jar"/>
+	<classpathentry kind="lib" path="dist/lib/mysql-connector.jar"/>
+	<classpathentry kind="lib" path="dist/lib/ojdbc14.jar"/>
+	<classpathentry kind="lib" path="dist/lib/org.apache.commons.io.jar"/>
+	<classpathentry kind="lib" path="lib/apache-logging-log4j.jar"/>
+	<classpathentry kind="lib" path="lib/itextpdf-5.5.9.jar"/>
+	<classpathentry kind="lib" path="lib/mysql-connector.jar"/>
+	<classpathentry kind="lib" path="lib/ojdbc14.jar"/>
+	<classpathentry kind="lib" path="lib/org.apache.commons.io.jar"/>
+	<classpathentry kind="output" path="build/classes"/>
+</classpath>
